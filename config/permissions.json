@@ -1,0 +1,170 @@
+[
+{
+    "model": "permissions.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Право на добавление людей в компанию",
+        "slug": "provo-na-dobavlenie-lyudej-v-kompaniyu"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Право на обновление компаний",
+        "slug": "pravo-na-obnovlenie-kompanij"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Право на создание компаний",
+        "slug": "pravo-na-sozdanie-kompanij"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Право на удаление компаний",
+        "slug": "pravo-na-udalenie-kompanij"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Право на удаление людей из компанию",
+        "slug": "pravo-na-udalenie-lyudej-iz-kompaniyu"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Право на просмотр компании",
+        "slug": "pravo-na-prosmotr-kompanii"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Право на просмотр проектов",
+        "slug": "pravo-na-prosmotr-proektov"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Право на создание проектов",
+        "slug": "pravo-na-sozdanie-proektov"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Право на удаление проектов",
+        "slug": "pravo-na-udalenie-proektov"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Право на обновление проектов",
+        "slug": "pravo-na-obnovlenie-proektov"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Право на просмотр задач",
+        "slug": "pravo-na-prosmotr-zadach"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Право на редактирование задач",
+        "slug": "pravo-na-redaktirovanie-zadach"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Право на удаление задач",
+        "slug": "pravo-na-udalenie-zadach"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Право на создание задач",
+        "slug": "pravo-na-sozdanie-zadach"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Право на списание часов в задачу",
+        "slug": "pravo-na-spisanie-chasov-v-zadachu"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Право на добавление ролей",
+        "slug": "pravo-na-dobavlenie-rolej"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Право на удаление ролей",
+        "slug": "pravo-na-udalenie-rolej"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Право на просмотр ролей",
+        "slug": "pravo-na-prosmotr-rolej"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Право на обновление ролей",
+        "slug": "pravo-na-obnovlenie-rolej"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Право на обновление ролей пользователю",
+        "slug": "pravo-na-obnovlenie-rolej-polьzovatelyu"
+    }
+},
+{
+    "model": "permissions.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Право на просмотр прав",
+        "slug": "pravo-na-prosmotr-prav"
+    }
+}
+]

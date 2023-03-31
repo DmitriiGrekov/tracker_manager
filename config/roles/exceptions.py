@@ -1,0 +1,2 @@
+class NoPermissionInRequest(BaseException):
+    pass

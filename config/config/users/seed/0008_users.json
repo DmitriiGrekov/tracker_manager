@@ -1,0 +1,50 @@
+[
+{
+    "model": "users.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Право на добавления компаний",
+        "slug": "pravo-na-dobavleniya-kompanij"
+    }
+},
+{
+    "model": "users.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Право на обновление компаний",
+        "slug": "pravo-na-obnovlenie-kompanij"
+    }
+},
+{
+    "model": "users.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Право на создание компаний",
+        "slug": "pravo-na-sozdanie-kompanij"
+    }
+},
+{
+    "model": "users.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Право на удаление компаний",
+        "slug": "pravo-na-udalenie-kompanij"
+    }
+},
+{
+    "model": "users.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Право на удаление людей из компанию",
+        "slug": "pravo-na-udalenie-lyudej-iz-kompaniyu"
+    }
+},
+{
+    "model": "users.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Право на просмотр компании",
+        "slug": "pravo-na-prosmotr-kompanii"
+    }
+},
+]
